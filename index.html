@@ -1,0 +1,149 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Taobao Finds · October 2026</title>
+<meta name="description" content="A curated, shareable list of the best things to buy on Taobao in October 2026. Picked from what people recommend on TikTok, Douyin, Xiaohongshu and YouTube, then filtered by real Taobao sales and reviews.">
+<meta name="theme-color" content="#F6F1E7">
+<meta name="color-scheme" content="light dark">
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Taobao Finds">
+<meta property="og:title" content="Taobao Finds · October 2026">
+<meta property="og:description" content="A curated, shareable list of the best things to buy on Taobao, picked from what people recommend on TikTok, Douyin, Xiaohongshu and YouTube, then filtered by real Taobao sales and reviews.">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Taobao Finds · October 2026">
+<meta name="twitter:description" content="A curated, shareable list of the best things to buy on Taobao in October 2026.">
+
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='15' fill='%23FF5000'/%3E%3Ctext x='32' y='47' text-anchor='middle' font-family='Georgia,serif' font-style='italic' font-weight='700' font-size='42' fill='%2317140F'%3ET%3C/text%3E%3C/svg%3E">
+
+<script>
+  /* Apply a saved theme before first paint to avoid a flash. */
+  try {
+    var t = localStorage.getItem('tf-theme');
+    if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+  } catch (e) {}
+</script>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..800;1,9..144,400..800&family=Inter:wght@400..700&family=Noto+Sans+SC:wght@400..700&display=swap">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body data-view="deck" data-source="loading">
+<a class="skip-link" href="#main">Skip to the finds</a>
+
+<div class="app">
+  <header class="masthead">
+    <div class="wrap">
+      <div class="mast-top">
+        <div class="brand">
+          <h1 class="wordmark">Taobao <em>Finds</em></h1>
+          <p class="edition"><span id="edition">October 2026</span><span id="sample-flag" class="sample-flag" hidden>Sample data</span></p>
+        </div>
+
+        <div class="mast-tools">
+          <div class="seg" role="group" aria-label="Choose a view">
+            <button type="button" id="btn-view-deck" class="seg-btn" aria-pressed="true" aria-label="Swipe deck view">
+              <span class="ico" data-icon="deck"></span><span class="lbl">Deck</span>
+            </button>
+            <button type="button" id="btn-view-grid" class="seg-btn" aria-pressed="false" aria-label="Grid view">
+              <span class="ico" data-icon="grid"></span><span class="lbl">Grid</span>
+            </button>
+            <button type="button" id="btn-view-list" class="seg-btn" aria-pressed="false" aria-label="My list, 0 saved">
+              <span class="ico" data-icon="heart"></span><span class="lbl">My list</span>
+              <span id="list-badge" class="badge-count" aria-hidden="true" hidden>0</span>
+            </button>
+          </div>
+          <button type="button" id="theme-toggle" class="icon-btn" aria-label="Switch to dark theme"></button>
+        </div>
+      </div>
+
+      <div id="promo" class="promo" role="note" hidden>
+        <p class="promo-text"><strong id="promo-headline"></strong> <span id="promo-detail"></span></p>
+        <button type="button" id="promo-close" class="promo-close" aria-label="Dismiss this banner"><span data-icon="x"></span></button>
+      </div>
+
+      <div id="filters" class="filters">
+        <div id="chips" class="chips" role="group" aria-label="Filter by category"></div>
+        <div class="filter-row">
+          <div class="search">
+            <span class="search-ico" data-icon="search"></span>
+            <input id="search" type="search" placeholder="Search name or brand" aria-label="Search by English name, Chinese name or brand" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+            <button type="button" id="search-clear" class="search-clear" aria-label="Clear search" hidden><span data-icon="x"></span></button>
+          </div>
+          <button type="button" id="must-toggle" class="must" aria-pressed="false"><span data-icon="check"></span><span>Must-buy</span></button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" class="wrap main">
+    <section id="view-deck" class="view view-deck" aria-labelledby="h-deck">
+      <h2 id="h-deck" class="sr-only">Swipe deck</h2>
+      <div class="deck-meta">
+        <p id="deck-counter" class="counter">0 / 0</p>
+        <p class="hint">
+          <span class="hint-touch">Swipe right to save, left to skip</span>
+          <span class="hint-keys">Drag the card, or use the arrow keys</span>
+        </p>
+      </div>
+      <div class="progress" aria-hidden="true"><span id="deck-progress"></span></div>
+
+      <div id="deck" class="deck" data-remaining="0">
+        <p class="loading">Loading finds…</p>
+      </div>
+
+      <div class="actions" role="group" aria-label="Card actions">
+        <button type="button" id="btn-skip" class="act act-skip" aria-label="Skip this find (left arrow)" disabled>
+          <span data-icon="x"></span><span>Skip</span><kbd class="kbd" aria-hidden="true">←</kbd>
+        </button>
+        <button type="button" id="btn-undo" class="act act-undo" aria-label="Undo the last choice (Backspace or Z)" disabled>
+          <span data-icon="undo"></span>
+        </button>
+        <button type="button" id="btn-save" class="act act-save" aria-label="Save this find to My list (right arrow)" disabled>
+          <span data-icon="heart"></span><span>Save</span><kbd class="kbd" aria-hidden="true">→</kbd>
+        </button>
+      </div>
+      <p id="deck-announce" class="sr-only" aria-live="polite"></p>
+    </section>
+
+    <section id="view-grid" class="view view-grid" aria-labelledby="h-grid" hidden>
+      <h2 id="h-grid" class="sr-only">All finds</h2>
+      <p id="grid-summary" class="summary"></p>
+      <ul id="grid" class="grid"></ul>
+    </section>
+
+    <section id="view-list" class="view view-list" aria-labelledby="h-list" hidden>
+      <div class="list-head">
+        <div>
+          <h2 id="h-list" class="list-title">My list</h2>
+          <p id="list-summary" class="summary"></p>
+        </div>
+        <div class="list-tools">
+          <button type="button" id="share-list" class="btn btn-primary btn-sm"><span data-icon="share"></span><span>Share my list</span></button>
+          <button type="button" id="clear-list" class="btn btn-ghost btn-sm">Clear list</button>
+        </div>
+      </div>
+      <ul id="rows" class="rows"></ul>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">
+      <h2 class="foot-title">How these were picked</h2>
+      <p id="method" class="foot-method">Items are picked from what people recommend on TikTok, Douyin, Xiaohongshu and YouTube, then filtered by real Taobao sales and reviews.</p>
+      <p id="disclaimer" class="fine">Prices and sales as read on Taobao. Not affiliated with Taobao. No affiliate links.</p>
+      <button type="button" id="share-page" class="btn btn-ghost"><span data-icon="share"></span><span>Share this page</span></button>
+    </div>
+  </footer>
+</div>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<noscript><p class="noscript">Taobao Finds needs JavaScript to show the list. Please turn it on and reload.</p></noscript>
+
+<script src="app.js" defer></script>
+</body>
+</html>
