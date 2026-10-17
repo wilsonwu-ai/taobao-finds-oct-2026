@@ -6,7 +6,7 @@
   "headline": "Sale starts Oct 20, 8pm Beijing time (8am ET).",
   "detail": "Many listings show an official 15% off from that moment. Add to cart now, check out once the price drops."
  },
- "method": "Items were shortlisted by the curator from 2025-2026 social buzz, then kept only if at least one real creator post recommends them (linked on each card; mostly YouTube, some TikTok and Douyin). Each item is then checked on Taobao for sales and buyer reviews. Items marked \"Taobao sales check pending\" have not been checked yet; this list is being updated before the Oct 20 sale.",
+ "method": "Items were shortlisted by the curator from 2025-2026 social buzz, then kept only if at least one real creator post recommends them (linked on each card; YouTube, TikTok and Douyin; TikTok picks come from what creators actually say in the video). Each item is then checked on Taobao for sales and buyer reviews. Items marked \"Taobao sales check pending\" have not been checked yet; this list is being updated before the Oct 20 sale.",
  "items": [
   {
    "id": "huawei-freeclip-2",
@@ -52,6 +52,11 @@
      "platform": "youtube",
      "url": "https://www.youtube.com/watch?v=VXuvNj6gAtI",
      "label": "HUAWEI FreeClip 2 real-world experience (Chinese"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=Cpa2aFDj5zg",
+     "label": "FreeClip 2 Review: Stylish Comfort With a Catch"
     }
    ]
   },
@@ -100,6 +105,58 @@
    ]
   },
   {
+   "id": "dji-mic-mini",
+   "name_en": "DJI Mic Mini wireless mic",
+   "name_cn": "大疆 Mic Mini 无线麦克风",
+   "brand": "DJI 大疆",
+   "category": "phone_tech",
+   "why": "Tiny clip-on wireless mics that make phone videos and calls sound studio-clean.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E5%A4%A7%E7%96%86%20Mic%20Mini&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": "https://i.ytimg.com/vi/dL6kvXSOaUI/hqdefault.jpg",
+   "tags": [
+    "value",
+    "life_easier"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "douyin",
+    "tiktok",
+    "youtube"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@xixiplease/video/7608330190221036821",
+     "label": "Taobao orders waiting in China (94k)"
+    },
+    {
+     "platform": "douyin",
+     "url": "https://www.douyin.com/shipin/7502628307867944960",
+     "label": "大疆麦克迷你 vs 麦克2 区别 (Chinese)"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=dL6kvXSOaUI",
+     "label": "The $79 Secret: DJI Mic Mini Best Value 2026"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@simplykasin/video/7681083223148907807",
+     "label": "China tech haul (148k)"
+    }
+   ]
+  },
+  {
    "id": "huawei-freebuds-pro-5",
    "name_en": "Huawei FreeBuds Pro 5",
    "name_cn": "华为 FreeBuds Pro 5",
@@ -143,16 +200,21 @@
      "platform": "youtube",
      "url": "https://www.youtube.com/watch?v=pAuMpMYtG8E",
      "label": "Recenzja Huawei FreeBuds Pro 5 (Polish review)"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=CcKTy-dGQB8",
+     "label": "Обзор Huawei FreeBuds Pro 5 (Russian review)"
     }
    ]
   },
   {
-   "id": "dji-mic-mini",
-   "name_en": "DJI Mic Mini wireless mic",
-   "name_cn": "大疆 Mic Mini 无线麦克风",
+   "id": "dji-osmo-pocket-3",
+   "name_en": "DJI Osmo Pocket 3",
+   "name_cn": "大疆 Osmo Pocket 3",
    "brand": "DJI 大疆",
    "category": "phone_tech",
-   "why": "Tiny clip-on wireless mics that make phone videos and calls sound studio-clean.",
+   "why": "The pocket gimbal camera every vlogger seems to carry; buttery stabilized 4K. The newer Pocket 4 is also out in China.",
    "review_summary": "",
    "review_tags": [],
    "price_cny": null,
@@ -161,127 +223,40 @@
    "review_count_text": "",
    "store": "",
    "official_store": false,
-   "taobao_url": "https://s.taobao.com/search?q=%E5%A4%A7%E7%96%86%20Mic%20Mini&sort=sale-desc",
+   "taobao_url": "https://s.taobao.com/search?q=%E5%A4%A7%E7%96%86%20Osmo%20Pocket%203&sort=sale-desc",
    "taobao_link_type": "search",
-   "image": "https://i.ytimg.com/vi/dL6kvXSOaUI/hqdefault.jpg",
-   "tags": [
-    "value",
-    "life_easier"
-   ],
-   "must_buy": false,
-   "taobao_check": "pending",
-   "platforms": [
-    "douyin",
-    "youtube"
-   ],
-   "sources": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=dL6kvXSOaUI",
-     "label": "The $79 Secret: DJI Mic Mini Best Value 2026"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=klm_WEw3z0Y",
-     "label": "STOP Buying Expensive Mics (DJI Mic Mini Review)"
-    },
-    {
-     "platform": "douyin",
-     "url": "https://www.douyin.com/shipin/7502628307867944960",
-     "label": "大疆麦克迷你 vs 麦克2 区别 (Chinese)"
-    }
-   ]
-  },
-  {
-   "id": "xiaomi-smart-band-10",
-   "name_en": "Xiaomi Smart Band 10",
-   "name_cn": "小米手环10",
-   "brand": "Xiaomi 小米",
-   "category": "phone_tech",
-   "why": "Weeks of battery, sleep and fitness tracking for very little money; still the budget benchmark.",
-   "review_summary": "",
-   "review_tags": [],
-   "price_cny": null,
-   "price_date": "2026-10-17",
-   "sales_text": "",
-   "review_count_text": "",
-   "store": "",
-   "official_store": false,
-   "taobao_url": "https://s.taobao.com/search?q=%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF10&sort=sale-desc",
-   "taobao_link_type": "search",
-   "image": "https://i.ytimg.com/vi/45xMCaOY2cI/hqdefault.jpg",
-   "tags": [
-    "value",
-    "life_easier"
-   ],
-   "must_buy": false,
-   "taobao_check": "pending",
-   "platforms": [
-    "douyin",
-    "youtube"
-   ],
-   "sources": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=45xMCaOY2cI",
-     "label": "Xiaomi Smart Band 10 Review"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=qIbGPofP8G8",
-     "label": "Xiaomi Smart Band 10 in 2026: Still The Best Bud"
-    },
-    {
-     "platform": "douyin",
-     "url": "https://www.douyin.com/shipin/7551029166947207207",
-     "label": "小米手环10记录睡眠时间 (Douyin user video)"
-    }
-   ]
-  },
-  {
-   "id": "anbernic-handheld",
-   "name_en": "Anbernic retro handheld console",
-   "name_cn": "安伯尼克 复古掌机",
-   "brand": "Anbernic 安伯尼克",
-   "category": "toys_collectibles",
-   "why": "A pocket console that plays decades of classics; instant nostalgia at dinner parties.",
-   "review_summary": "",
-   "review_tags": [],
-   "price_cny": null,
-   "price_date": "2026-10-17",
-   "sales_text": "",
-   "review_count_text": "",
-   "store": "",
-   "official_store": false,
-   "taobao_url": "https://s.taobao.com/search?q=%E5%AE%89%E4%BC%AF%E5%B0%BC%E5%85%8B%20%E5%A4%8D%E5%8F%A4%E6%8E%8C%E6%9C%BA&sort=sale-desc",
-   "taobao_link_type": "search",
-   "image": "https://i.ytimg.com/vi/kqHPAJkcYWE/hqdefault.jpg",
+   "image": "https://i.ytimg.com/vi/38FpVgZ_AkE/hqdefault.jpg",
    "tags": [
     "fun",
-    "conversation_starter",
-    "gift"
+    "quality",
+    "conversation_starter"
    ],
    "must_buy": false,
    "taobao_check": "pending",
    "platforms": [
-    "douyin",
+    "tiktok",
     "youtube"
    ],
    "sources": [
     {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=kqHPAJkcYWE",
-     "label": "THIS Is The Retro Handheld to Get Under $70 - RG"
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@eileen.ines/video/7592254380011719966",
+     "label": "Brands cheaper in China (643k)"
     },
     {
      "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=kATtIGbYxvE",
-     "label": "Anbernic RG35XX Review - Perfect Budget Handheld"
+     "url": "https://www.youtube.com/watch?v=38FpVgZ_AkE",
+     "label": "DJI Osmo Pocket 3 Long Term Review (2026)"
     },
     {
-     "platform": "douyin",
-     "url": "https://www.douyin.com/shipin/7307670707016812563",
-     "label": "周哥掌机rg35xx值得买吗 (Douyin user video)"
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@simplykasin/video/7681083223148907807",
+     "label": "China tech haul, Pocket 4 (148k)"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=N2MtPVDo99A",
+     "label": "大疆DJI Osmo Pocket 3真实体验"
     }
    ]
   },
@@ -315,19 +290,24 @@
    ],
    "sources": [
     {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@ellencherry_/video/7631744900333194526",
+     "label": "Ubras Bra Review: Seamless Comfort & Smooth Fit"
+    },
+    {
      "platform": "youtube",
      "url": "https://www.youtube.com/watch?v=FZvBknIXccc",
      "label": "Seamless Ubras bralette comfort review"
     },
     {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@xixiplease/video/7608330190221036821",
+     "label": "Ubras socks, favorite ever (94k)"
+    },
+    {
      "platform": "youtube",
      "url": "https://www.youtube.com/watch?v=1VbS_sL8Vl8",
      "label": "Ubras Seamless Bras Light Support review"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@ellencherry_/video/7631744900333194526",
-     "label": "Ubras Bra Review: Seamless Comfort & Smooth Fit"
     }
    ]
   },
@@ -367,14 +347,164 @@
      "label": "3-Month Review of the Songmont Gather Bag"
     },
     {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=3-VOpnsbGIM",
+     "label": "Is the Songmont Luna Bag Worth It?"
+    },
+    {
      "platform": "tiktok",
      "url": "https://www.tiktok.com/@tanner.leatherstein/video/7367518110955375914?lang=en",
      "label": "Tanner Leatherstein on the Songmont Luna bag"
     },
     {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cha.siuu/video/7616539327715101953",
+     "label": "Quiet luxury Chinese brand (343k)"
+    }
+   ]
+  },
+  {
+   "id": "florasis-lipstick",
+   "name_en": "Florasis carved lipstick",
+   "name_cn": "花西子 雕花口红",
+   "brand": "Florasis 花西子",
+   "category": "beauty_personal_care",
+   "why": "Lipstick carved with traditional Chinese relief patterns; a small sculpture as much as makeup.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E9%9B%95%E8%8A%B1%E5%8F%A3%E7%BA%A2&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "design",
+    "gift",
+    "conversation_starter"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok",
+    "youtube"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@kellydiaries/video/7605209810572823828",
+     "label": "China makeup must-buy (319k)"
+    },
+    {
      "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=3-VOpnsbGIM",
-     "label": "Is the Songmont Luna Bag Worth It?"
+     "url": "https://www.youtube.com/shorts/1UxpiDD_uQU",
+     "label": "Blooming Rouge Love Lock Lipstick showcase"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=y13pRoE4cBA",
+     "label": "Florasis Ultra Smooth Satin Liquid Lipstick Revi"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=OY51z8cX_go",
+     "label": "New Florasis Blooming Rouge Ultra Smooth Satin"
+    }
+   ]
+  },
+  {
+   "id": "xiaomi-smart-band-10",
+   "name_en": "Xiaomi Smart Band 10",
+   "name_cn": "小米手环10",
+   "brand": "Xiaomi 小米",
+   "category": "phone_tech",
+   "why": "Weeks of battery, sleep and fitness tracking for very little money; still the budget benchmark.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E5%B0%8F%E7%B1%B3%E6%89%8B%E7%8E%AF10&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": "https://i.ytimg.com/vi/45xMCaOY2cI/hqdefault.jpg",
+   "tags": [
+    "value",
+    "life_easier"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "douyin",
+    "youtube"
+   ],
+   "sources": [
+    {
+     "platform": "douyin",
+     "url": "https://www.douyin.com/shipin/7551029166947207207",
+     "label": "小米手环10记录睡眠时间 (Douyin user video)"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=45xMCaOY2cI",
+     "label": "Xiaomi Smart Band 10 Review"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=qIbGPofP8G8",
+     "label": "Xiaomi Smart Band 10 in 2026: Still The Best Bud"
+    }
+   ]
+  },
+  {
+   "id": "anbernic-handheld",
+   "name_en": "Anbernic retro handheld console",
+   "name_cn": "安伯尼克 复古掌机",
+   "brand": "Anbernic 安伯尼克",
+   "category": "toys_collectibles",
+   "why": "A pocket console that plays decades of classics; instant nostalgia at dinner parties.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E5%AE%89%E4%BC%AF%E5%B0%BC%E5%85%8B%20%E5%A4%8D%E5%8F%A4%E6%8E%8C%E6%9C%BA&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": "https://i.ytimg.com/vi/kqHPAJkcYWE/hqdefault.jpg",
+   "tags": [
+    "fun",
+    "conversation_starter",
+    "gift"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "douyin",
+    "youtube"
+   ],
+   "sources": [
+    {
+     "platform": "douyin",
+     "url": "https://www.douyin.com/shipin/7307670707016812563",
+     "label": "周哥掌机rg35xx值得买吗 (Douyin user video)"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=kqHPAJkcYWE",
+     "label": "THIS Is The Retro Handheld to Get Under $70 - RG"
+    },
+    {
+     "platform": "youtube",
+     "url": "https://www.youtube.com/watch?v=kATtIGbYxvE",
+     "label": "Anbernic RG35XX Review - Perfect Budget Handheld"
     }
    ]
   },
@@ -551,52 +681,6 @@
      "platform": "youtube",
      "url": "https://www.youtube.com/watch?v=dmDelK5p_HY",
      "label": "UGREEN Nexode Pro 65W 3 Port GaN Charger"
-    }
-   ]
-  },
-  {
-   "id": "dji-osmo-pocket-3",
-   "name_en": "DJI Osmo Pocket 3",
-   "name_cn": "大疆 Osmo Pocket 3",
-   "brand": "DJI 大疆",
-   "category": "phone_tech",
-   "why": "The pocket gimbal camera every vlogger seems to carry; buttery stabilized 4K from something lipstick-sized.",
-   "review_summary": "",
-   "review_tags": [],
-   "price_cny": null,
-   "price_date": "2026-10-17",
-   "sales_text": "",
-   "review_count_text": "",
-   "store": "",
-   "official_store": false,
-   "taobao_url": "https://s.taobao.com/search?q=%E5%A4%A7%E7%96%86%20Osmo%20Pocket%203&sort=sale-desc",
-   "taobao_link_type": "search",
-   "image": "https://i.ytimg.com/vi/38FpVgZ_AkE/hqdefault.jpg",
-   "tags": [
-    "fun",
-    "quality",
-    "conversation_starter"
-   ],
-   "must_buy": false,
-   "taobao_check": "pending",
-   "platforms": [
-    "youtube"
-   ],
-   "sources": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=38FpVgZ_AkE",
-     "label": "DJI Osmo Pocket 3 Long Term Review (2026)"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=N2MtPVDo99A",
-     "label": "大疆DJI Osmo Pocket 3真实体验"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=jopANAXX0FQ",
-     "label": "Osmo Pocket 3 上手体验: best vlog camera?"
     }
    ]
   },
@@ -873,6 +957,52 @@
    ]
   },
   {
+   "id": "to-summer-fragrance",
+   "name_en": "To Summer home fragrance",
+   "name_cn": "观夏 香薰",
+   "brand": "To Summer 观夏",
+   "category": "home_living",
+   "why": "Poetic Chinese scents in gallery-worthy bottles; the gift that makes people ask where it is from.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E8%A7%82%E5%A4%8F%20%E9%A6%99%E8%96%B0&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "design",
+    "gift",
+    "conversation_starter"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@shltnc/video/7371658582204501266",
+     "label": "Falling in love with To Summer (观夏)"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@onlyj790709/video/7254807344587083009",
+     "label": "Guan Xia To Summer Beijing store post"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@eva.thai/video/7662725638297554189",
+     "label": "The souvenir to bring home (122k)"
+    }
+   ]
+  },
+  {
    "id": "kailas-trail-shoes",
    "name_en": "Kailas trail running shoes",
    "name_cn": "凯乐石 越野跑鞋",
@@ -1003,52 +1133,6 @@
      "platform": "youtube",
      "url": "https://www.youtube.com/watch?v=qRc7p0CdWKM",
      "label": "Xtep 160X 3.5 Pro Full Review"
-    }
-   ]
-  },
-  {
-   "id": "florasis-lipstick",
-   "name_en": "Florasis carved lipstick",
-   "name_cn": "花西子 雕花口红",
-   "brand": "Florasis 花西子",
-   "category": "beauty_personal_care",
-   "why": "Lipstick carved with traditional Chinese relief patterns; a small sculpture as much as makeup.",
-   "review_summary": "",
-   "review_tags": [],
-   "price_cny": null,
-   "price_date": "2026-10-17",
-   "sales_text": "",
-   "review_count_text": "",
-   "store": "",
-   "official_store": false,
-   "taobao_url": "https://s.taobao.com/search?q=%E8%8A%B1%E8%A5%BF%E5%AD%90%20%E9%9B%95%E8%8A%B1%E5%8F%A3%E7%BA%A2&sort=sale-desc",
-   "taobao_link_type": "search",
-   "image": null,
-   "tags": [
-    "design",
-    "gift",
-    "conversation_starter"
-   ],
-   "must_buy": false,
-   "taobao_check": "pending",
-   "platforms": [
-    "youtube"
-   ],
-   "sources": [
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/shorts/1UxpiDD_uQU",
-     "label": "Blooming Rouge Love Lock Lipstick showcase"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=y13pRoE4cBA",
-     "label": "Florasis Ultra Smooth Satin Liquid Lipstick Revi"
-    },
-    {
-     "platform": "youtube",
-     "url": "https://www.youtube.com/watch?v=OY51z8cX_go",
-     "label": "New Florasis Blooming Rouge Ultra Smooth Satin"
     }
    ]
   },
@@ -1321,47 +1405,6 @@
    ]
   },
   {
-   "id": "to-summer-fragrance",
-   "name_en": "To Summer home fragrance",
-   "name_cn": "观夏 香薰",
-   "brand": "To Summer 观夏",
-   "category": "home_living",
-   "why": "Poetic Chinese scents in gallery-worthy bottles; the gift that makes people ask where it is from.",
-   "review_summary": "",
-   "review_tags": [],
-   "price_cny": null,
-   "price_date": "2026-10-17",
-   "sales_text": "",
-   "review_count_text": "",
-   "store": "",
-   "official_store": false,
-   "taobao_url": "https://s.taobao.com/search?q=%E8%A7%82%E5%A4%8F%20%E9%A6%99%E8%96%B0&sort=sale-desc",
-   "taobao_link_type": "search",
-   "image": null,
-   "tags": [
-    "design",
-    "gift",
-    "conversation_starter"
-   ],
-   "must_buy": false,
-   "taobao_check": "pending",
-   "platforms": [
-    "tiktok"
-   ],
-   "sources": [
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@shltnc/video/7371658582204501266",
-     "label": "Falling in love with To Summer (观夏)"
-    },
-    {
-     "platform": "tiktok",
-     "url": "https://www.tiktok.com/@onlyj790709/video/7254807344587083009",
-     "label": "Guan Xia To Summer Beijing store post"
-    }
-   ]
-  },
-  {
    "id": "buydeem-kettle",
    "name_en": "Buydeem health kettle",
    "name_cn": "北鼎 养生壶",
@@ -1477,6 +1520,296 @@
      "platform": "youtube",
      "url": "https://www.youtube.com/watch?v=WFB_2I0ta_I",
      "label": "JUDYDOLL Amazon Butterfly Dance Palette Review"
+    }
+   ]
+  },
+  {
+   "id": "outsider-inside-jewelry",
+   "name_en": "Outsider Inside sterling silver jewelry",
+   "name_cn": "OUTSIDER INSIDE 银饰",
+   "brand": "Outsider Inside",
+   "category": "bags_accessories",
+   "why": "Sculptural sterling silver with a foggy matte finish; Taobao jewelry creators keep naming it.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=OUTSIDER%20INSIDE%20%E9%93%B6%E9%A5%B0&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "design",
+    "conversation_starter",
+    "gift"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cha.siuu/video/7569056139027991825",
+     "label": "Best brands on Taobao, day 4 (526k)"
+    },
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@tituslee__/video/7676028971221290257",
+     "label": "Taobao jewelry stores (269k)"
+    }
+   ]
+  },
+  {
+   "id": "laifen-swift",
+   "name_en": "Laifen Swift high-speed hair dryer",
+   "name_cn": "徕芬 高速吹风机",
+   "brand": "Laifen 徕芬",
+   "category": "beauty_personal_care",
+   "why": "High-speed brushless dryer that creators compare to a Dyson at a fraction of the price, in lots of colors.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E5%BE%95%E8%8A%AC%20%E5%90%B9%E9%A3%8E%E6%9C%BA&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "design",
+    "life_easier",
+    "value"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@elleforlaura/video/7671244888662461717",
+     "label": "3 viral China brands worth the hype (363k)"
+    }
+   ]
+  },
+  {
+   "id": "divoom-pixel-speaker",
+   "name_en": "Divoom retro pixel-art speaker",
+   "name_cn": "Divoom 点音 像素音箱",
+   "brand": "Divoom 点音",
+   "category": "audio",
+   "why": "Retro pixel-art speakers and desk gadgets from a Shenzhen brand; the thing guests pick up first.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=Divoom%20%E7%82%B9%E9%9F%B3%20%E5%83%8F%E7%B4%A0%20%E9%9F%B3%E7%AE%B1&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "fun",
+    "design",
+    "conversation_starter"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@cuzimkai_/video/7621562944236702989",
+     "label": "Buying cool Chinese tech on Taobao (1.6M)"
+    }
+   ]
+  },
+  {
+   "id": "pane-sneakers",
+   "name_en": "PANE Zephyr leather training sneakers",
+   "name_cn": "PANE 皮革运动鞋",
+   "brand": "PANE",
+   "category": "shoes",
+   "why": "A Chinese leather sneaker label one creator's whole family bought nine pairs of; strong branding, top-tier build.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=PANE%20%E8%BF%90%E5%8A%A8%E9%9E%8B&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "design",
+    "quality",
+    "conversation_starter"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@bynessa_/video/7668258410026290452",
+     "label": "PANE, the sneaker brand to know (261k)"
+    }
+   ]
+  },
+  {
+   "id": "kunogigi-bag",
+   "name_en": "KUNOGIGI slouchy leather bag",
+   "name_cn": "古良吉吉 包",
+   "brand": "KUNOGIGI 古良吉吉",
+   "category": "bags_accessories",
+   "why": "Soft, slouchy genuine-leather bags with no harsh edges; the kite bag is the fan favorite.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E5%8F%A4%E8%89%AF%E5%90%89%E5%90%89%20%E5%8C%85&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "design",
+    "conversation_starter"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@zoe.rammie/video/7630494552964631828",
+     "label": "China's bag brands (245k)"
+    }
+   ]
+  },
+  {
+   "id": "nin-jiom-pipa",
+   "name_en": "Nin Jiom Pei Pa Koa throat syrup",
+   "name_cn": "京都念慈菴 枇杷膏",
+   "brand": "Nin Jiom 念慈菴",
+   "category": "other",
+   "why": "The herbal loquat syrup Chinese families swear by for sore throats; singers use it too.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E4%BA%AC%E9%83%BD%E5%BF%B5%E6%85%88%E8%8F%B4%20%E6%9E%87%E6%9D%B7%E8%86%8F&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "life_easier",
+    "value"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@zoe.rammie/video/7654991716788849941",
+     "label": "Unsexy things to buy in China (661k)"
+    }
+   ]
+  },
+  {
+   "id": "weilong-latiao",
+   "name_en": "Weilong latiao spicy gluten strips",
+   "name_cn": "卫龙 辣条",
+   "brand": "Weilong 卫龙",
+   "category": "kitchen",
+   "why": "The sweet-sour-spicy snack every Chinese student packs to take abroad; about a dollar a bag.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E5%8D%AB%E9%BE%99%20%E8%BE%A3%E6%9D%A1&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "fun",
+    "value",
+    "gift"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "tiktok"
+   ],
+   "sources": [
+    {
+     "platform": "tiktok",
+     "url": "https://www.tiktok.com/@vicalivibes/video/7493185007859633454",
+     "label": "Snacks locals say to buy (100k)"
+    }
+   ]
+  },
+  {
+   "id": "xiaomi-photo-printer",
+   "name_en": "Xiaomi Mijia pocket photo printer",
+   "name_cn": "米家 口袋照片打印机",
+   "brand": "Xiaomi 小米",
+   "category": "phone_tech",
+   "why": "Prints sticker-backed photos straight from your phone; Douyin creators test whether prints fade over months.",
+   "review_summary": "",
+   "review_tags": [],
+   "price_cny": null,
+   "price_date": "2026-10-17",
+   "sales_text": "",
+   "review_count_text": "",
+   "store": "",
+   "official_store": false,
+   "taobao_url": "https://s.taobao.com/search?q=%E7%B1%B3%E5%AE%B6%20%E5%8F%A3%E8%A2%8B%E7%85%A7%E7%89%87%E6%89%93%E5%8D%B0%E6%9C%BA&sort=sale-desc",
+   "taobao_link_type": "search",
+   "image": null,
+   "tags": [
+    "fun",
+    "gift"
+   ],
+   "must_buy": false,
+   "taobao_check": "pending",
+   "platforms": [
+    "douyin"
+   ],
+   "sources": [
+    {
+     "platform": "douyin",
+     "url": "https://www.douyin.com/shipin/7518599670458419210",
+     "label": "明明实验室 printer comparison"
     }
    ]
   }
