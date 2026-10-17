@@ -1,6 +1,6 @@
 # Taobao Finds · October 2026
 
-A swipeable, shareable list of the best things to buy on Taobao right now, curated from what creators recommend on TikTok, YouTube, Douyin and Xiaohongshu.
+A swipeable, shareable list of the best things to buy on Taobao right now, shortlisted from 2025-2026 social buzz and kept only when real creator posts (mostly YouTube, some TikTok and Douyin) recommend them.
 
 Live: https://wilsonwu-ai.github.io/taobao-finds-oct-2026/
 
